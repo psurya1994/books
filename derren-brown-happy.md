@@ -14,4 +14,5 @@ Chapter 2:
 
 
 Other:
-- Morning momentum is key. 
+- Morning momentum is key. It helps maximize tranquility. You can enjoy after 5pm knowing you've done your part for the day.
+- 

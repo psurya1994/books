@@ -10,4 +10,4 @@ I need to reorganize notes in my own style and chunk them so that they're easier
 
 ---
 List of books
-- Deep work[](cal-newport-deep-work.md)
+- [Deep work](cal-newport-deep-work.md)
