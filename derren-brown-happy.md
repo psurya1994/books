@@ -11,3 +11,7 @@ Chapter 2:
 - He futher argues that "ignore all haters" attitude that's commonly endorse isn't helpful either. We hear that many successful people had this attitude, but there's many more people with such attitude who failed who we don't hear about!
 - He's getting at a deeper psychological fixes than having external productivity goals. 
 - "Focus on future and goals. Believe in yourself." -- equivalent to giving up on present which is a receipe for suffering. "By trying to control what we can't, we all but garauntee frustrations and disappointment." 
+
+
+Other:
+- Morning momentum is key. 

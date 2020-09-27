@@ -5,6 +5,9 @@ I'll write my own summaries / interpretations of hte books I read here, and will
 
 Disclaimer: I summarize my understanding of these books, and add my flavor into those ideas. So what you read here might not be entirely representative of what the author is conveying.
 
+
+I need to reorganize notes in my own style and chunk them so that they're easier for me to grasp. 
+
 ---
 List of books
-- 
+- Deep work[](cal-newport-deep-work.md)
