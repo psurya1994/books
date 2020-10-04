@@ -12,6 +12,8 @@ Chapter 2:
 - He's getting at a deeper psychological fixes than having external productivity goals. 
 - "Focus on future and goals. Believe in yourself." -- equivalent to giving up on present which is a receipe for suffering. "By trying to control what we can't, we all but garauntee frustrations and disappointment." 
 
+Chapter 14: How to die well
+- Honest conversations about dying is taboo. The general narrative people have is "keep fighting"
 
 Other:
 - Morning momentum is key. It helps maximize tranquility. You can enjoy after 5pm knowing you've done your part for the day.

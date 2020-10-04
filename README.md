@@ -10,4 +10,10 @@ I need to reorganize notes in my own style and chunk them so that they're easier
 
 ---
 List of books
-- [Deep work](cal-newport-deep-work.md)
+- [Deep Work by Cal Newport](cal-newport-deep-work.md)
+- [Outliers by Malcomm Gladwell]()
+- [Happy by Derren Brown]()
+- [Show your work by Austin Kleon]()
+- [Transcend by Scott B Kaufman]()
+- [A Guide to the Good Life: The Art of Stoic Joy by William B Irvine]()
+- [Sapiens by Yuval Harari]()
