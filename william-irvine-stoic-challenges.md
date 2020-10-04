@@ -45,28 +45,39 @@ This book explains a technique on how we can reframe setbacks to minimize any mi
 	- Frames you can use (i) competing obligations, (ii) incompetence, (iii) story telling (this adversity makes for a good story I can tell in future), (iv) comedic frame (when a bad thing outside our control happens, say "Well, then, let's have some beer."), (v) game frame (play this like a video game with friends; use all adversity as an excuse for laughter). Other frames (i) 5-min free will frame, (ii) a documentary videographer following you frame. 
 	- Be an optimistic delightful enthusiastic person who sees the bright side in everything by reframing setbacks. That's the kind of person who increases tranquility in the world, and the Stoic gods would appretiate.
 
-- We need to learn two main things: (i) control for possible worst case scenarios, (ii) prevent feeling negative emotions after a setback.
-- When you're stuck in the traffic and late for an important meeting, listen to your podcast happily. Don't worry about things that are out of yoru control.
-- When we experience a setback, our immediate goal is to prevent a flood of negative emotions. (not conceal)
-- If we want to cause change in society, being angry prevents progress. Gandhi and Martin Luther King recognized this. MLK regretted being angry on people at both sides while negotiating a deal. "I quickly regretted being angry, this way no way to solve a problem. You must not harbor anger. You must be willing to suffer teh anger of your opponenet, and yet not return anger. You must not become bitter. No matter how emotional your opponents are, you must be calm." Righteous anger can retard progress on the issue in question. 
-- Social reformers would be wise to follow Gnadhi and King, and stay calm while working passionately to bring change. 
+- On social change:
+	- We need to learn two main things: (i) control for possible worst case scenarios, (ii) prevent feeling negative emotions after a setback.
+	- When you're stuck in the traffic and late for an important meeting, listen to your podcast happily. Don't worry about things that are out of yoru control.
+	- When we experience a setback, our immediate goal is to prevent a flood of negative emotions. (not conceal)
+	- If we want to cause change in society, being angry prevents progress. Gandhi and Martin Luther King recognized this. MLK regretted being angry on people at both sides while negotiating a deal. "I quickly regretted being angry, this way no way to solve a problem. You must not harbor anger. You must be willing to suffer teh anger of your opponenet, and yet not return anger. You must not become bitter. No matter how emotional your opponents are, you must be calm." Righteous anger can retard progress on the issue in question. 
+	- Social reformers would be wise to follow Gandhi and King, and stay calm while working passionately to bring change. 
 
+- The Stoic gods
+	- Be flattered if we encounter setbacks. We got god's attention and he regards us as a candidate for acheiving human excellence. He's giving us a platform to show our Stoic skills. 
+	- God is like a strict father who hardens his favourites through the stoic test. (Seneca)
+	- God has given us a part of himself (the ability to reason) to us, because he cares about us. That is enough to avoid most suffering.
+	- The Stoic gods have a mischievous sense of humor. Instead of casuing your phone to stop working, they put it in a lemonade because that is more fun.
+	- Excellence withers wihtout adversity. You need it if you want to reach tranquility.
+	- The gods who administer the stoic test don't grade them, you have to do it yourself. 
+		- Actions. Ask things like: before commiting to a action did you consider your options? Did you engage in lateral thinking? Was your workaround optimal?
+		- Internals. Were you calm? That's a B. To get A, you need to enjoy that you're getting a chance to test out / demo your capabilities. Smile at the Stoic gods. Humor yourself.
+	- 5-second rule: We have 5-seconds since the adversity starts to pose it as a Stoic test.
+	- When we have a stream of good days, it's possibly because the Stoic good are setting us up for a particularly devious test. Practice Stoicism, and be on your gaurd. 
 
----
-Rough notes below, can be ignored.
+- Studying for the Stoic tests
+	- "Nothing seems to me more unhappy than the man who has no experience of adversity." He would inevitably stop appretiating things and any minor disruption in his life can make him upset.
+	- When we start thinking of setbacks as Stoic tests, we look forwarrd to them. Just like a tennis player looks forward to show off her skills (fitness, new shots, etc.,) in a game.
+	- Stoic adventures: we go out of our way to put ourselves in challenging circumstances. (William's challenges: taking italian class, banjo lession, rowing, etc.,)
+	- When you counter the internal dialouge of Lazy Bill ("you can relax for the day, you done enough work", "you could stop working out and the pain will go away"), respond saying "I'll show you." And trash talk to him when you win. But never trash talk to the Stoic gods, they're incredibly powerful and look out for bumptious. 
 
-
--MLK's quote. page.72
--problem wiht using anger for social justiec
-
-- the key to being robust to suffering is going through hard times and praticing Stoicism in the process. Anyone who isn't practicing Stoicism, and not encountering much hardship in his life is setting himself up for a big failure. It's okay to focus on avoiding hard situations, but you need to include them in a controlled way in your life if the Stoic gods don't put it on you.
-
--replaying bad things as you worry is natural, but bad. Reframe things, so that the replay and the emotion it triggers would reduce massivel.y
-- Seneca - god is like a strict fatherwho hardens his favourites through the stoictest.
-Epictetus - god has given us a part of himself (the adbility to reason). that is enough to avoid most suffering.
-
-
-
+- On the mindset: 
+	- Embrace failures: People conceal failures. But failures are inevitable in your path to success. No person did anything great without repeatedly failing at it. Be proud when you hear noes. Be proud when you fail. The alternative is not trying, which is much worse. This is not what the Stoic gods have given you reason for. 
+	- People complain when you're upset at some injustice, and you want others to be upset with you. These people are not the kind in whose company you want to be. 
+	- Publicizing our successes for approval from others would make other people root against us. Don't boast. Even if the topic comes up, stay humble and attribute the success to luck, and everyone else around you who supported you in the process. 
+	- Train for toughness: exercise, counter dressing for weather, skipping meals. Extreme: live as megerly as possible for a specified time. 
+	- We engage in toughness, so that we can happy in this life. Not afterlife. (different from mainstream religions)
+	- The key to being robust to suffering is going through hard times and praticing Stoicism in the process. Anyone who isn't practicing Stoicism, and not encountering much hardship in his life is setting himself up for a big failure. It's okay to focus on avoiding hard situations, but you need to include them in a controlled way in your life if the Stoic gods don't put it on you.
+	- I'm already in a good position in my life. Instead of trying to do things that will take me ot the next level, I want to completely be happy here first. And handle the worst case scenarios that could be caused of big miseries in my life. (when in doubt, always handle the worst case scenarios; don't gamble on your life)
 
 List of possible bad things that can happen:
 - you lose both of your front teeth on the morning of your marriage.
@@ -74,25 +85,23 @@ List of possible bad things that can happen:
 - locked in syndrome: you're in the prime of your life, but you suddenlt fall our. A few weeks later, you wake up in the hospital and can't move a muscle. This means no french fries, no marriage, no exercise, no reading, no anything!
 - getting covid and lung capacity going to 50%
 - becoming blind
+---
+<!--  
+Rough notes below, can be ignored.
 
-- I'm already in a good position in my life. Instead of trying to do things that will take me ot the next level, I want to completely be happy here first. And handle the worst case scenarios that could be caused of big miseries in my life. (when in doubt, always handle the worst case scenarios; don't gamble on your life)
+
 - As stoics, we shouldn't boast or try to flatter someone. (except for potential partners maybe?)
-- Excellence withers wihtout adversity. You need it if you want to reach tranquility.
-- The Stoic gods have a mischievous sense of humor. Instead of casuing your phone to stop working, they put it in a lemonade because that is more fun.
-- The gods who administer the stoic test don't grade them, you have to do it yourself. 
-	- Actions. Ask things like: before commiting to a action did you consider your options? Did you engage in lateral thinking? Was your workaround optimal?
-	- Internals. Were you calm? That's a B. To get A, you need to enjoy that you're getting a chance to test out / demo your capabilities. Smile at the Stoic gods. Humor yourself.
+
+
+
 
 - 5 second rule:
 	- If we encounter a setback, we have 5-seconds to declare this as a Stoic test. This can help not the emotional response of anger be triggered. 
 - What is unpleasant for most people can turn into fun for us.
-
-
-
-
 
 Example: 
 - Person X not treating me with the respect I deserve. He's not seeing the value I'm adding to his life. That's okay, this is what the Stoic gods have bestowed upon you. Don't give unsolicited advice to that person in future. He's not impressed, that's maybe because what you say aren't as insightful "to him" as much as you think they are.  
 Grading my setback:
 - Behaviourally, I did a decent job. Fixed my mistakes in a decent way. That's a B. It's kinda like I defended by honor. The Stoics wouldn't start with creating a model of themselves that force sthem to have their gaurd up which is what I did.
 - I 
+-->
