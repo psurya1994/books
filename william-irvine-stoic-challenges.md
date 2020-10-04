@@ -1,43 +1,61 @@
-- See challenges as an opportunity in this first person video game to practice your Stoicism. See them as something the Stoic gods have bestowed upon us to test our resilience. 
-- Each time things get worse, say "what a clever wrinkle! I hadn't seen this coming. Well played Stoic gods, just watch how I'm going to handle this." (refered as the Stoic test strategy)
-- Handle things with peace. If anger as the last resort, and only feint it. 
-- All the little discomforts we whine over, our ancestor would be super grateful for.
-- framing effect: how we mentally characterize the situation has profound impact on how we respond to it emotionally. 
-- At the end of the challenge, rate yourself on the Stoic sage scale. 
-- The Stoic goal is not to stay calm through suffering, it is to experience setbacks without any suffering. It is a big difference.
+## The Stoic Challenge by William B. Irvine
 
-Part 1:
-- Setbacks:
-	- Unexpected things happen! Level 1: burn your finger, spilling water on your laptop, late for a meeting because you're stuck in traffic, etc. | Level 2: losing your job | Level 3: death of a loved one, imprisoned for a crime you didn't commit
-	- Setbacks can happen from nature, other people intentionally, other people inadvertently or yourself (you're on the top of this list). You cause setbacks in other people's lives too. 
-	- Setbacks and desires are related. Depending on your desire, you see a setback as a mere annoyance or a major setback. 0 desire = 0 setbacks. 
-	- Number of setbacks = F(foresight you possess). But even with great foresight, setbacks are unavoidble. 
+### Summary
+This book explains a technique on how we can reframe setbacks to minimize any misery that it may produce. The ideas here are not novel (specially because I already read William's 2008 book), but putting them in the Stoicism framework helps me as I can internalize things more easily. 
+
+### Takeaways
+
+- How can we minimize misery during setbacks / challenges? 
+	- See challenges as an opportunity in this first person video game to practice your Stoicism. See them as something the Stoic gods have bestowed upon us to test our resilience. 
+	- Each time things get worse, say "what a clever wrinkle! I hadn't seen this coming. Well played Stoic gods, just watch how I'm going to handle this." (refered as the Stoic test strategy)
+	- At the end of the challenge, rate yourself on the Stoic sage scale. 
+	- The Stoic goal is not to stay calm through suffering, it is to experience setbacks without any suffering. It is a big difference.
+	- The purpose of life is to see these challenges as a game with the Stoic gods where you want to maximize your Stoicism points. 
+
+- On setbacks:
+	- Setbacks are unavoidable, internalize this idea through negative visualization! Level 1: burn your finger, spilling water on your laptop, late for a meeting because you're stuck in traffic, etc. | Level 2: losing your job | Level 3: death of a loved one, imprisoned for a crime you didn't commit
 	- You need to develop strategies to minimize harm done when unforeseeable setbacks happen. Emotional distress caused by setbacks is worse than the setbacks themselves. 
 	- Talking about setbacks can reignite the anger and frustration. Such people are not good companions. Don't be one of them. 
 	- Why do people talk about setbacks? (a) public service, to inspire others, (b) to request for help, (c) to join have more people just them in the fight against injustice, (d) seek others empathy / pity. 
-	- Sometimes watching people we don't like (or even competing) being setback can be rewarding.
-- Anger:
-	- Getting frustrated about setbacks begets anger only makes things worse. We sometimes complain to get other people riled up with us. It is foolish for one person to get angry, elt alone two people.
-	- When we (as Stoics) complain, we're okay if other people feint feeling bad. But the last thing we want is to have other people feel bad with us.
-	- It is possible to not feel angry at perceived injustices done to us. THe first step is to recognize that anger only makes things wors.e 
-	- Would you have been better off by being angry at your colleague who called you stupid, or by avoiding to be angry at all. Reframing the situation, maybe he had a rough day, he doesn't want to cause me suffering, he's just an uninsightful person who fails to see that being angry at me doesn't serve anything. AVoiding anger is clearly the way to go.
-	- Anger can take over you by replaying event. 
-	- If we can deal with setbacks would anger, there wouldn't be any anger left to deal with.
-- Resilience:
+	- All the little discomforts we whine over, our ancestor would be super grateful for. People have gone through much worse before us, and they have handled it with great courage. 
+
+- On anger:
+	- Getting frustrated about setbacks begets anger which only makes things worse. We sometimes complain to get other people riled up with us. It is foolish for one person to get angry, elt alone two people.
+	- When we (as Stoics) complain, we should be okay if other people feint feeling bad. The last thing we want is to have other people feel bad with us.
+	- It is possible to not feel angry at perceived injustices done to us. The first step is to recognize that anger only makes things worse.
+	- Would you have been better off by being angry at your colleague who called you stupid, or by avoiding to be angry at all? Reframing the situation, maybe he had a rough day, he doesn't want to cause me suffering, he's just an uninsightful person who fails to see that being angry at me doesn't serve anything. Or the biggest reframe, maybe the Stoic gods are testing your practice of Stoicism. 
+	- Anger has a very short half life, it's the repeated replay of the situation that reignites the physiological phenomenon of anger. 
+
+- On resilience:
 	- People bounce right off setbacks because they feel anger. Stoic sage wouldn't need to bounce because they weren't upset to begin with.
-	- Getting setbacks of your head, and being sane (with 0 negative emotions) when people want you to be angry / upset / disappointed about something is admirable. (Example, Neil Armstrong's crash landing. His colleaugues expected him to booast / complain how well he did, but he had nothing much to say other than a couple of facts.)
-	- When the number of options is limited, it is foolish to fret. We should choose the best of them and get ahead with life.
-	- (include highlisths from chapter 4)
-- Two minds
+	- Getting setbacks of your head, and being sane (with 0 negative emotions) when people expect you to be angry / upset / disappointed about something is admirable. Example: Neil Armstrong's crash landing; his colleaugues expected him to booast / complain how it happened, but he had nothing much to say other than a couple of facts.
+	- When the number of options is limited, it is foolish to fret. We should choose the best of them and get ahead with life. 
+	- Don't play the victim and complain. These kinds of people are not fun to be around.
+
+- Conscious vs sub-conscious
+	- Try to not think about anything for a minute. The thoughts that are popping into your brain are planted by the subconscious. 
 	- The concious mind and subconscious work together to make decisions. The subconscious has an unfair advantage, it can repeatedly recommend things to the consicious brain. It's a losing battle. How can you stop the subconscious from triggering negative emotions and poping these finger pointing thoughts when you face setbacks? By reframing it as a Stoic test. 
+	- The default mode of the subconscious during setbacks is to abdicate responsibility and point fingers. It create unnecessary thoughts (maybe I should have responded saying X), unnecessary replays (of the event perceived as an injustice) and unnecessary negative emotions (like anger).
+	- Treating / framing the setback as a Stoic test, is a great way to stop the subconscious from doing this. It can infact be a source of pride, satisfaction or joy.
 
-- negative visualization is a form of anchoring to reclibrate your expectations frmo life. 
-- Framing things the right way can also help us appretiate the setbacks we come across with joy. 
-- Marcus - "If you are distress by anything external, the pain is not due to the thing itself but your estimate of it; and you have the power to revoke this at any moment."
-- Frames you can use (i) competing obligations, (ii) incompetence, (iii) story telling, (iv) comedic frame. Other frames (i) 5-min free will frame, (ii) a documentary videographer following you frame. 
-- Be an optimistic delightful person, that's the kind of person who increases tranquility in the world. 
+- On anchoring and framing:
+	- Framing effect: how we mentally characterize the situation has profound impact on how we respond to it emotionally. | Anchoring effect: dropping anchors can affect our estimates / foresight. 
+	- Negative visualization is a form of anchoring to reclibrate your expectations from life. Lower your expectations is a reliable way to become happier. 
+	- Marcus - "If you are distress by anything external, the pain is not due to the thing itself but your estimate of it; and you have the power to revoke this at any moment."
+	- Frames you can use (i) competing obligations, (ii) incompetence, (iii) story telling (this adversity makes for a good story I can tell in future), (iv) comedic frame (when a bad thing outside our control happens, say "Well, then, let's have some beer."), (v) game frame (play this like a video game with friends; use all adversity as an excuse for laughter). Other frames (i) 5-min free will frame, (ii) a documentary videographer following you frame. 
+	- Be an optimistic delightful enthusiastic person who sees the bright side in everything by reframing setbacks. That's the kind of person who increases tranquility in the world, and the Stoic gods would appretiate.
 
-- when you're stuck in the traffic and alte, listen to your podcast happily. Don't worry about things that are out of yoru conotrl.
+- We need to learn two main things: (i) control for possible worst case scenarios, (ii) prevent feeling negative emotions after a setback.
+- When you're stuck in the traffic and late for an important meeting, listen to your podcast happily. Don't worry about things that are out of yoru control.
+- When we experience a setback, our immediate goal is to prevent a flood of negative emotions. (not conceal)
+- If we want to cause change in society, being angry prevents progress. Gandhi and Martin Luther King recognized this. MLK regretted being angry on people at both sides while negotiating a deal. "I quickly regretted being angry, this way no way to solve a problem. You must not harbor anger. You must be willing to suffer teh anger of your opponenet, and yet not return anger. You must not become bitter. No matter how emotional your opponents are, you must be calm." Righteous anger can retard progress on the issue in question. 
+- Social reformers would be wise to follow Gnadhi and King, and stay calm while working passionately to bring change. 
+
+
+---
+Rough notes below, can be ignored.
+
+
 -MLK's quote. page.72
 -problem wiht using anger for social justiec
 
