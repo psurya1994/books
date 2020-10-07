@@ -1,7 +1,7 @@
 ## The Stoic Challenge by William B. Irvine
 
 ### Summary
-This book explains a technique on how we can reframe setbacks to minimize any misery that it may produce. The ideas here are not novel (specially because I already read William's 2008 book), but putting them in the Stoicism framework helps me as I can internalize things more easily. 
+This book explains a technique on how we can reframe setbacks to minimize any misery that it may produce. The ideas here are not novel (especially because I already read William's 2008 book), but putting them in the Stoicism framework helped me internalize things more easily. I'm hoping to make this technique a part of my life. 
 
 ### Takeaways
 
