@@ -2,8 +2,7 @@
 
 ### Summary
 
-The book talks about the importance of doing distraction free work with tips on how you can get there. This book is one of my favourites, that I keep coming back to. 
-
+The book talks about the importance of doing distraction free work and tips on how you can get there. This book is my all time favourite, a book that I keep coming back to. 
 
 ### The importance of deep work 
 
@@ -21,7 +20,7 @@ The book talks about the importance of doing distraction free work with tips on 
 
 - Performance psychology: study of what seperates experts from rest. Anders Ericsson's deliberate practice (is what seperates the experts): (i) focus your attention on the skill you want to improve, (ii) receive feedback consistently to keep your attention on where it's most productive. 
 
-- Neuroscience evidence: Skills boil down to brain circuits: you get better at a skill as you develop more myelin around relevant neurons. With intense focus on a specific skill, you force the specific relevant circuit to fire again and again in isolation. With low concentraion, you're allowing too many circuits to fire simultaneously.  
+- Neuroscience evidence: Skills boil down to brain circuits-- you get better at a skill as you develop more myelin around relevant neurons. With intense focus on a specific skill, you force the specific relevant circuit to fire again and again in isolation. With low concentration, you're allowing too many circuits to fire simultaneously.  
 
 - `highQualityProducedWork = timeSpent x intensityOfFocus` Best students understand the role of intensity, they go out of their way to maximize concentration.
 
@@ -51,7 +50,7 @@ The book talks about the importance of doing distraction free work with tips on 
 
 - Transisioning from shallow to deep work is hard. Example: 9.30 - 10.00 am -> shallow browsing, 10.00am -> work. Sitting idle, or meditating prior to the deep work session makes it easier. Minimizing residue from previous shallow tasks is the key. 
 
-### Strategy: Plan deep work
+### Strategy 1: Plan deep work
 
 - Add routines / rituals to your working life so as to minimize the amount of will power needed to transision into deep work. 
 
@@ -69,18 +68,18 @@ The book talks about the importance of doing distraction free work with tips on 
 
 - Build rituals to the same level of strictness as previous thinkers. Minimize the friction to go deep by preplanning things:
 	- where to work and for how long (needs to be an empty room used only for depth, have a fixed time frame, open-ended slog is horrible)
-	- how you'll work once work starts (no internet, distraction sheet, having a plan and a metric for deep work (eg. how many pages you read), in pomodoros)
+	- how you'll work once work starts (no internet, distraction sheet, having a plan and a metric for deep work (eg. how many pages you read, in pomodoros)
 	- how you'll support your work (coffee and access to food, walks in nature in between)
 
-### Strategy: Value deep work religiously
+### Strategy 2: Value deep work religiously
 
-- To work deeply is what helps you reach virtue (as suggested in Stoicism). Treat this work as a religious ritual, as a holy thing. Don't take it lightly. Don't let other people interrupt you. 
+- To work deeply is what helps you reach tranquility (as suggested in Stoicism). Treat this work as a religious ritual, as a holy thing. Don't take it lightly. Don't let other people interrupt you. 
 
 - With a radical change in your environment, with a singnificant investment of money or effort, all dedicated towards supporting a deep task, you increase the perceived importance of the task. 
 
-- Make grand gestures: JK Rowling checks into a 1000$/day hotel to write. Bill Gates chose week long retreat instead of seattle head quaters, Alan Lightman goes to a tiny island for 2.5 motnhs without internet or phone, Michael Pollan and Dan Pink built expensive writing cabins, Peter Shankman wrote his book flying business class, William Shockley didn't emerge from his room until he ironed out details for better transistor design.
+- Make grand gestures: JK Rowling checks into a 1000$/day hotel to write. Bill Gates chose week long retreat instead of seattle head quaters, Alan Lightman goes to a tiny island for 2.5 motnhs without internet or phone, Michael Pollan and Dan Pink built expensive writing cabins, Peter Shankman wrote his book flying business class, William Shockley didn't emerge from his room until he ironed out details for better transistor design. Making such a gesture help you go deeper. 
 
-### Strategy: working with others
+### Strategy 3: Work with others
 
 - To take your work to the next level, you need to collaborate with others. Many ideas originate from open ended discussions with people. So, expose yourself to ideas in hubs on a regular basis, but maintain a spoke in which to work deeply on what you encounter. 
 
@@ -90,14 +89,14 @@ The book talks about the importance of doing distraction free work with tips on 
 
 - Guidelines for depth: (i) distraction destroys depth, (ii) work with someone inside your spoke on the same problem so that you can push each other.
 
-### Strategy: Executing like a business
+### Strategy 4: Executing like a business
 
 - This is inspired fomr Clayton Christensen's 4 disciplines of execution.
 
 - #1: Focus on widly important
 	- Focus on small number of ambitious outcomes to pursue in deep work hours.
 	- Have a specific goal that will have tangible and substantial professional benefits.
-	- Don't say no to trivial distractions, say yes to a subject that general terrigying longing that crowds everything else. (David Brooks, The Art of Focus)
+	- Don't say no to trivial distractions, say yes to a subject that general terrifying longing that crowds everything else. (David Brooks, The Art of Focus)
 
 - #2: Act on lead meausres
 	- Lag measure: the things you're trying ot improve. Lead measure: the thing that will drive success on lag measure.
@@ -113,7 +112,7 @@ The book talks about the importance of doing distraction free work with tips on 
 
 - Cal Newport's experience: (i) set goal to publish 5 papers in an year (ambitious), (ii) his tenure was looming (rewarding). Ended up publishing 9. 4DX kept him focused all year long. Regularity of work increased. 4DX: with the clarity of goal, and unavoidable feedback of lead measure -- he could go very deep.
 
-### Strategy: Liesure and shutdown
+### Strategy 5: Liesure and shutdown
 
 - Tim Kreider (author of we learn nothing): hated frantic work, fled to "undisclosed location" to escape shallow obligations. Reason: it made him better at his job. He had to cycle for a while if he needed to get access to the internet for checking his email. Learn more on Tim Ferris's podcast #68; it's incredible.
 
@@ -156,7 +155,7 @@ The book talks about the importance of doing distraction free work with tips on 
 
 - When you work, work hard. When you're done, be done. Your refreshed ability become much better than your exhausted peers. 
 
-### Strategy: Embrace boredom
+### Strategy 6: Embrace boredom
 
 - Adam Marlin had a church ritaul that is more demanding than his daily work. This made him much better at his job. (maybe meditation can do this for me?)
 
@@ -164,7 +163,7 @@ The book talks about the importance of doing distraction free work with tips on 
 
 - You will struggle to achieve the deepest level of concentration if you spend the rest of your time fleeing the slightest hint of boredom. Be bored, fuck around doing nothing, day dream, that's not only okay but necessary.
 
-### Strategy: Don't multitask
+### Strategy 7: Don't multitask
 
 - Clifford Nass's research -- multitaskers: can't filter out irrelevancy, can't manage working memory, chronically distracted, irrelevant parts of the brain fire when working on a specific task. They are prpetty much "mental wrecks".
 
@@ -176,7 +175,7 @@ The book talks about the importance of doing distraction free work with tips on 
 
 - Treat deep work as a religious routine, and never ever let distractions in. Letting distraction in once would rewire your subconcious and keep putting in the thought that you could check email each time the work gets hard. When work gets the hardest, is when you need the highest levels of focus.
 
-### Strategy: Digital detox
+### Strategy 8: Digital detox
 
 - Take breaks from distractions, not focus. On most days, you need at most two hours of distractions a day (to answer emails, respond to messages). On some days, you need zero hours of distractions a day. Learn to be okay being bored. 
 
@@ -203,6 +202,64 @@ The book talks about the importance of doing distraction free work with tips on 
 
 - To succed with deep work, you must rewire your brain to be comfortable resisting distracting stimuli. 
 
+### Strategy 9: Work with high intensity
+
+- This is similar to what Teddy Roosevelt did. Add high work intensity during the work day (8.30am to 4.30pm) with fragments of other activities (exercise, poetry).
+
+- How to minimize inefficient idling time during deep work?
+	- Identify deep work task with high priority
+	- Estimate the time you'd take for it.
+	- Give yourself a hard dedalinte that "drastically" reduces this time.
+	- Commit publicly. (tell the person who's expecting the job to be finished)
+
+- The only way to get the work done on time would be if you work with great intensity (no email break, no day dreaming, no social media).
+
+- This is advanced. Start with doing this only once a week. Make it more often if it works. 
+
+- Use your extra time towards finer pleasures in life: learning skateboard / tennis, going on a trek / date / travel, doing easy things that blow people's minds: memory training / writing with left hand, getting stronger and fitter, time with family.
+
+
+### Strategy 10: Walk productively
+
+- Thinking while walking (preferably in nature) is a key habit that many successful people follow. Pick a problem and go for a walk as you think about it (even winters are okay). This not only helps make progress on the problems, but helps you train your attention muscles (each time you're distracted, you force yourself back to the problem again). 
+
+- Specific tips
+	- Kinds of problems you can think about: outlining an article, writing a talk, making progress on proof, business strategy, etc, 
+	- Have 2 to 3 sessions per week. 
+	- Alternative activities where you can apply this: joggin, driving, shower, doing chores.
+
+- This won't be easy, this gets better over training. Here are a few suggestions to avoid it:
+	- Be wary of distractions / loops: gently bring back your attention without judgement each time you're distracted. Notice each time you loop and remind yourself to move forward.
+	- Structure your deep thinking: carefully review relevant variables and store them in your working memeory. Define the next step and variables clearly.
+
+- Complimentary activity: Train to memorize a deck of cards. It helps train your concentration. Research: memory atheletes have good attention control, not memory. 
+
+- Your ability to concentrate is only as good as your commitment to train it. 
+
+### Extra strategies by Surya
+
+- I have experimented a lot with deep work myself, and I'd like to add some of the strategies that I've discovered work best for me.
+
+- Strategy #1: Use a distractions sheet. Each time you have distracting thoughts during your deep work session (I to finish my amazon order, I reply to that person, etc.,); just put it on your distraction sheet and keep doing your deep work task. Putting it on the sheet helps you free mental space. 
+
+- Strategy #2: Track daily goals on a public sheet with friends. I've been doing this for about 18 months now and it's been super helpful. More details [here](https://docs.google.com/spreadsheets/d/1TqTgo4zfecckl-r-NC5Uqve49kzQ1EMTA-aRljyPNLU/edit?usp=drive_web&ouid=101067478399041643135).
+
+- Strategy #3: Have a checklist. When things you don't feel great in your skin, which affects your deep work; have a checklist of things that might have gone wrong. In my checklist, I have: did I sleep enough, did I eat well, did I get enough exercise, am I hydrated, is the work optimally challenging, is something else bothering me, am I getting enough sun light, am I getting enough vitamins etc.,
+
+- Strategy #4: Meditate. Helps understand the nature of desire for what it is. Each you have control and not be distracted by thought. 
+
+- Strategy #5: Work in pomodoros. Take a nap in the break times. This is especially helpful for hard tasks that need a lot of brain power. I do 25 minutes of work, followed by 7 minutes of rest time.
+
+- Strategy #6: Introspect. When your session goes well, think about what went right and how you can incorporate these good things into future sessions; same for what went bad. 
+
+- Strategy #7: Sitting idle counts as work time. 
+
+- Strategy #8: Have an accountability partner. Check in with them every few days on how your sessions are going and what can be improved about them. 
+
+- Strategy #9: consistent sleep cycle, doing deep work first thing in the morning and another in the noon.
+
+
+
 
 
 ### Routines of some top performers
@@ -223,7 +280,11 @@ The book talks about the importance of doing distraction free work with tips on 
 		- "I'll live a focused life because that's the best kind there is." 
 		- "Unless you can concentrate on what you want to do and suppress distractions, it’s hard to accomplish anything, period."
 		- "If most of the time you’re not particularly concerned about whether what you’re doing is work or play, or even whether you’re happy or not, you know you’re living the focused life."
-	- Charles Darwin: wake up and go for a walk (7am), breakfast along (7.30am), study (8.00 to 9.30am) , reply letters (9.30 to 10.30am), study (10.00 to 12.30pm). mull over challenging ideas and walk on prescribed roue until satified with thinking (1pm - 4pm). end of work day. 
+	- Charles Darwin: wake up and go for a walk (7am), breakfast along (7.30am), study (8.00 to 9.30am) , reply letters (9.30 to 10.30am), study (10.00 to 12.30pm). mull over challenging ideas and walk on prescribed roue until satified with thinking (1pm - 4pm). end of work day.
+	- Teddy Roosevelt 
+		- had an array of interests: boxing, wrestling, body building, dance, poetry, naturalism, etc., He spent less than quarter of his day studying. 
+		- 8.30am to 4.30pm: studying with fragments of receitation classes, training and lunch). Je worked only on school work during these periods with blistering intensity.
+
 	- (add from the link Pranoy shared with me)
 
 Other thoughts:
