@@ -20,6 +20,7 @@ In progress
 - [Outliers by Malcomm Gladwell](malcomm-gladwell-outliers.md)
 - [A Guide to the Good Life: The Art of Stoic Joy by William B Irvine](william-irvine-art-of-stoic-joy.md)
 - [Sapiens by Yuval Harari](yuval-harari-sapiens.md)
+- [Essentialism by Greg McKeown]()
 
 Upcoming
 - Industrial society and it's future
@@ -28,7 +29,12 @@ Upcoming
 - Pedagogy of the oppressed
 - Warrior kid
 - Range
+- Good to great by Jim Collins
 - Conscious
+
+Maybe
+- Why Greatness Cannot Be Planned: The Myth of the Objective by Kenneth O. Stanley, Joel Lehman
+
 
 
 If you have other recommendations, write to me. 

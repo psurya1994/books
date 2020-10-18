@@ -4,6 +4,45 @@ Below, you'll find me saying random things, don't take me seroiously.
 
 ---
 
+Planning to write a book, here's the chapter organization:
+
+- Intro: why I'm writing this
+	- What I would tell my 21-year old self?
+	- Continually editing as I change my thoughts
+	- Keeping arguments opinionated
+	- Caveats (I'm have lapses, but that's okay)
+- On productivity:
+	- Deep work
+	- 
+- On philosophies for life:
+	- Purpose of life
+	- Stoicism
+	- Disassociating from the stories we tell ourselves
+	- Essentialism
+	- Minimalism
+	- Transcend
+- Exercise
+	- 8.5 min plank
+	- 10km in 50 mins
+	- 20,000 reps in 30 days
+- Meditation
+- Misc
+	- What I learnt from doing 100 MOOCs?
+	- On passionately pursuing side projects
+	- Leisure
+	- My wednesdays
+	- Reading books
+	- On relationships
+	- On public commitments
+	- On discomfort
+	- BJJ / MMA training
+
+---
+
+Once you make some basic income, anything over it doesn't matter. So once you hit that basic income, you should only focus on what makes you happy. 
+
+Spend more time alking to people, understanding their motivations, asking them hard questions about life that makes them think more deeply about the things they choose to do with their time. 
+
 
 What others think
 

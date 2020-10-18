@@ -248,7 +248,7 @@ The book talks about the importance of doing distraction free work and tips on h
 
 - Strategy #4: Meditate. Helps understand the nature of desire for what it is. Each you have control and not be distracted by thought. 
 
-- Strategy #5: Work in pomodoros. Take a nap in the break times. This is especially helpful for hard tasks that need a lot of brain power. I do 25 minutes of work, followed by 7 minutes of rest time.
+- Strategy #5: Work in pomodoros. Take a nap in the break times. This is especially helpful for hard tasks that need a lot of brain power. I do 25 minutes of work, followed by 7 minutes of rest time. (use an app like flat tomato, not forest)
 
 - Strategy #6: Introspect. When your session goes well, think about what went right and how you can incorporate these good things into future sessions; same for what went bad. 
 
@@ -257,6 +257,12 @@ The book talks about the importance of doing distraction free work and tips on h
 - Strategy #8: Have an accountability partner. Check in with them every few days on how your sessions are going and what can be improved about them. 
 
 - Strategy #9: consistent sleep cycle, doing deep work first thing in the morning and another in the noon.
+
+- Strategy #10: do a fasting wednesday
+
+- You're allowed to take 30-minute breaks when you need them.
+
+- Use an app like flat tomato and not forest
 
 
 
