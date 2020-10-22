@@ -236,6 +236,40 @@ The book talks about the importance of doing distraction free work and tips on h
 
 - Your ability to concentrate is only as good as your commitment to train it. 
 
+### Strategy 10: Minimize unproductive distractions
+
+- There are two main sources of distractions on the internet: social media and infotainment (YouTube, reddit, BuzzFeed). Cal calls them "network tools". It's important to think deeply about the contribution of these things to our life. 
+
+- We can't make them a part of our life just because they add "some" value; they often also come with significant tradeoffs (suceptable to addiction, weaken your attention muscles, drain your time and attention). Especially, when we can find other things that add more value with fewer tradeoffs (eg. talking to friends, reading a book, exercising, etc.,).
+
+- Identify core factors that determine success / happiness in your professional and personal life. Adopt a tool only if its positive impacts on these factors substantially outweigh the negatives. 
+
+- How do we identify the factors? By listing your professional and personal goals, with activites that help you succeed. Then see if network tools are part of any of the supporting activites. 
+
+- For me:
+	- Professional:
+		- Goal: Learn about and build cool ML models. 
+		- Supporting activities: 1. Improving my coding and ML knowledge. 2. Spend time using these improved skill to think about ideas and implement them. 
+	- Personal:
+		- Goal: 1. Maintain good relationships. Ensure my close friends are healthy, sane and happy. 2. Pursue side projects passionately. 3. Find a partner
+		- Supporting activites: 1. Schedule calls and talk to them often. Share ideas. 2. Spend time reading books after work. 3. Talk to new people who share your values.
+	- The only goal that helps requires usage of social media is Personal Goal 3. So I can use it, but with strong limits and being super wary of the addictive aspects. 
+
+- You often overestimate how much it'll impact you if you stop using social media. Take a 30-day sabbatical to find for yourself. 
+
+
+### Strategy 11: Plan leisure, productive distractions
+
+- One could argue, "but I need to rest to recover! And mindless wandering on YouTube is a form of rest." That's not true! They only make you feel worse, you need to treat them like slow poison. 
+
+- You can and **should** make deliberate use of your time outside work. Don't default to whatever catches your attention in the moment. 
+
+- Have quality alternative activies to do. Have a list of productive distractions for the evening (preferable ones that don't need the use of internet). My list: quality books, exercise, cooking, chores, talking to friends / family, nap (if I'm feeling tired), write, side projects I'm passionate about, think about interesting research ideas (unrelated to main work), learn new skills: memory training / MMA, etc.,
+
+### Strategy 12:
+
+
+
 ### Extra strategies by Surya
 
 - I have experimented a lot with deep work myself, and I'd like to add some of the strategies that I've discovered work best for me.
