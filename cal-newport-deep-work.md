@@ -266,8 +266,27 @@ The book talks about the importance of doing distraction free work and tips on h
 
 - Have quality alternative activies to do. Have a list of productive distractions for the evening (preferable ones that don't need the use of internet). My list: quality books, exercise, cooking, chores, talking to friends / family, nap (if I'm feeling tired), write, side projects I'm passionate about, think about interesting research ideas (unrelated to main work), learn new skills: memory training / MMA, etc.,
 
-### Strategy 12:
+### Strategy 12: Drain shallows
 
+- Eliminating shallow work can make deep work even more deeper. This means that you get more done in lesser time. (example: having 4 work days with deep work is better than 5 work days with the same amount of deep work but shallow work included)
+
+- Treat shallow work with atmost suspicion because we underestimate it's damage and over estimate it's importance. See any obligation beyond your deep work as suspect. 
+
+- Schedule and plan clearly. If you fall off plan, plan again. Always keep asking the question "what makes sense for me to do with the time that remains?"
+
+- Quantify you depth on tasks and focus on the tasks that need more depth. One way to quanitfy: "how long would it take to train a smart fresh graduate with no training in my field to complete this task?"
+
+- Be clear with your employer on how much time they expect you to do shallow work as opposed to deep work.
+
+- Profs looking for tenure track are often overwhelmed because it seems like there's so much to do (they often end up spending a lot of time doing shallow work). One way to counter this is to have a shallow work time limit per week (don't try to do everything, cut down on travelling to aca conferences).
+
+- The most dangerous thing to productivity is the word "yes". Strategies to say no:
+	- "I'll talk to you after tenure"
+	- Be ambigious with excuses so that it's not easy to diffuse it. 
+	- A clean know is better than getting them in touch with someone else who might be able to help.
+	- Do not "jump on call" with people. Schedule calls ahead of time.
+
+- Having a clear cut off time for the end of hte day helps. It ensures you don't waste your time in the morning doing pointless things.
 
 
 ### Extra strategies by Surya
