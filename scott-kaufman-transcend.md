@@ -39,11 +39,41 @@
 
 #### Feeling hungry
 
-- A good way to obsure higher motivations is to make someone extremely and chronically hungry or thirsty. 
+- "A good way to obsure higher motivations is to make someone extremely and chronically hungry or thirsty." - Maslow 
 
 - Food uncertainty leads to increased impulsivity, hyperactivity, irritability, anxiety, aggression and propensity to use narcotics. It increases motivation to work or pay for food but decreases motivation to work or pay for any kind of non-food reward. 
 
 #### Need for attachment security
+
+- Attachment in relationships can characterized across two dimensions (they have weak correlation): (i) anxious: how concerned are you that you will be rejected / abandoned, (ii) avoidant: how to repond to stress-- do you use others as a secure base, or do you pull away from them. These are partially developed as we build mental models of others when we were kids.
+
+- The way you're attached has important implications. Those who score low on both (secure) have more constructive ways of coping as opposed to insecure attachments.
+
+- Insecurely attached relationships tend towards anxiety, loneliness, neuroticism, etc. They make choices distructive to relationships more often. They explain events in more negative ways. They report more emotional distress in situations when the partners "didn't respond when cuddling" or "wanted to spend the evening alone". Insecurely attached individuals perform better when they have a warm concerned partner. 
+
+- Emotionally Focused Therapy (EFT) shows increase in relationship satisfaction. It helps partners see relationship as a safe secure based in times of stress and adversity. Making attachment-related concerns explicit and discussing them with a sensitive, attentive partner can be immensely helpful.
+
+- Avoidant individuals are activated when they are pressured to share personal emotions or be more emoitonally intimate. Anxious individuals are activated by stressful situations that threaten the stability / quality of the relationship.
+
+- Training parents to be sensitive to child's need increases attachment security in children. Adequate security also allows curiosity and exploration instead of fear and anxiety.
+
+#### Trauma on the brain
+
+- Ensuring children have safe and secure environments not only helps the child, but also builds a just and sustainable society.
+
+- Most parenting styles don't leave indelible marks on children, but persistent stressors have long-term effects on the kids. Example: They have a hard time with emotional bonding, associate a particular situation with fear, etc.
+
+- These fear responses aren't automatically lost over time, we need to actively unlearn them. Learning hope, the idea that you can control and harness uncertainity in environment, can help too. 
+
+- Research: volunteers walking around in a neighborhood with high levels of crime increases their paranoia and reduces social trust. So it's understandable that people who live in such situations suffer from it. We as a society need to figure out ways to enable safety and security for such neighborhoods. (we would likely act very similar if we were put in the same situations)
+
+- Children who undergo stress learn skills that are relevant and help them survive in their ecological context. The education system needs to figure of a way to work with them.
+
+- Research: Hope (when they think they can have an impact) helps children perform better.
+
+### Connection
+
+- Connection, the need to form and maintain a minimal number of positive, stable and intimate relationships, is a basic need. Two subneeds: (a) need to belong, (b) need for intimacy.
 
 - 
 

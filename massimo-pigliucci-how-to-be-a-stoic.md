@@ -28,7 +28,7 @@
 
 ### My thoguhts while reading:
 
-- We're so addicted to our devices now that even going and reliving our childhoods would be incredibly boring. You don't have a computer or the internet, you're only watching the two interesting channels which run programs only for a couple of hours. What do you do with the rest of your time? (ask mom how I was spending time in my childhood)
+- We're so addicted to our devices now that even going and re-living our childhoods would be incredibly boring. You don't have a computer or the internet, you're only watching the two interesting TV channels which run programs only for a couple of hours. What do you do with the rest of your time? (ask mom how I was spending time in my childhood)
 
 - Imagine what you'd be when your iPhone break, you spill water on your computer, riots in your city or lose a leg in an accident. How would your priorities change then (on what's important in life)? And why not make those things you priorties now?
 
