@@ -31,6 +31,8 @@ Upcoming
 - Range
 - Good to great by Jim Collins
 - Conscious
+- The little book that still beats the market.
+- Your money or your life
 
 Maybe
 - Why Greatness Cannot Be Planned: The Myth of the Objective by Kenneth O. Stanley, Joel Lehman

@@ -80,3 +80,8 @@
 - When we're hungry, we think food is one of the most important things. When we're poor, we think that about money. But these motivations change once you hit a basic level. Example in my own life: you want freedom to pursue dreams (when you don't have self time) but complete freedom is not optimal either (I just need some basic space). I want some recognition / fame, but not too much.
 
 - You need skill + attention. Just skills can't get you far. Only people who have both can get far in life because they get better opportunities to hone their skills.
+
+
+===
+
+- It's important to structure things after you learn them, if you don't do that, you're not really doing anything. A good way to structure is by teaching it to someone. Connecting it to other thigns and thinking about it more broadly is critical.
