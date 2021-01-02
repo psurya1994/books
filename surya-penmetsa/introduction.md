@@ -36,3 +36,14 @@ Are we more likely to procrastinate a task if it's an hour of exericse instead o
 
 Read Michael Simmons: https://medium.com/@michaeldsimmons
 
+---
+Go around and pick the chapters that suit your needs best. I believe each of these chapter would have been revolutionary to my 22- year old self. 
+
+This book is on the insights I got when trying to implement the principle I learn in various book into my life. Reading without implementing those ideas is pointless. We need to actively push back on this temptation.
+
+Inspired by Lex Fridman's tweet and David Goggins's mentality, I decided to do 20,000 reps of various exercises in 30 days. I focused on pushing myself and doing this hard workout everyday to strengthen my mind. The hardest part wasn't the pain during the workouts or the soreness after (they weren't much, especially because I slowly ramped up to hit those many reps), but to workout around 2 hours everyday without excuses. This is different from my plank challenge where I hit 8.5 minutes of plank, where the hardest part is to not give in to the pain or suffering. 
+
+Lex's tweet: https://twitter.com/lexfridman/status/1266580747407765509
+Tracking sheet: https://docs.google.com/spreadsheets/d/1wyskmTmTWE8NA47HcgWqsdhLORR3H371dWgO00FWEPk/edit#gid=1404168043
+
+If you find that these ideas add value to your life, buy me a coffee. If you're a student, and you can't walk into a coffee shop and buy coffee for yourself for free, you're banned for contribution,

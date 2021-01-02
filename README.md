@@ -13,6 +13,7 @@ Completed notes
 - [The Stoic Challenge by William B Irvine](william-irvine-stoic-challenges.md)
 - [Deep Work by Cal Newport](cal-newport-deep-work.md)
 - [Show your work by Austin Kleon](austin-kleon-show-your-work.md)
+- [Essentialism by Greg McKeown](grep-mckeown-essentialism.md)
 
 In progress
 - [Happy by Derren Brown](derren-brown-happy.md)
@@ -20,11 +21,9 @@ In progress
 - [Outliers by Malcomm Gladwell](malcomm-gladwell-outliers.md)
 - [A Guide to the Good Life: The Art of Stoic Joy by William B Irvine](william-irvine-art-of-stoic-joy.md)
 - [Sapiens by Yuval Harari](yuval-harari-sapiens.md)
-- [Essentialism by Greg McKeown]()
 
 Upcoming
 - Industrial society and it's future
-- Essentialism
 - Vagabonding
 - Pedagogy of the oppressed
 - Warrior kid

@@ -10,5 +10,60 @@
 
 ### Chapter 2: Crabs and octopuses
 
+- Hydra's have a nerve net. There is no central processing unit. A touch on it's skin directly leads to a muscle twitch. 
+
+- Crab's eye has attention (adjacent cells compete for attention) mechanism which acts as an image sharpener. The same mechanism in deeper layers could be seen as attending to specific objects in the environment. 
+
+- Similarly, animals have inputs from eye, leg and ear. They are process information individually and then compete for attention at the central processor. If none of the inputs to the animal don't win the attention, humans go in autopilot. 
+
+- Smart brains have evolved atleast two times in the evolutionary process. Octopuses and humans. Octopuses have a central processing unit, and then many sub processing units on eahc of it's limbs. It also has a self-model. (model of itself)
+
+### Chapter 3: Frogs
+
+- Tectum is where the world is sorted onto a retionotopic map. In frogs, it's also where visual input and body sense come together to form cells with multisensory receptive fileds. 
+
+- A surgery for frog to reverse it's eyes upside down starts shooting in the opposite direction to catch prey. 
+
+- By exciting specific neurons in the brain (using micro stimulation), we can make animals turn to a specific location in space (elicit specific behaviors). This is shown in frogs, fishes and monkeys; but humans also likely do the same.
+
+- "Overt attention" (performed by the tectum), directs your senses to a particular object in the environment. "Covert attention" directs your computation power of the cortex to solve the things you're imaginging even though your senses are gather irrelevant information (eg. day dreaming).
+
+- Internal self models are critical for control. Prediction and tracking is the key if you want to control motor behaviours. This is called the body schema and animals have it.
+
+- Overtime, people develop better models of their world by interacting and learning thorugh data. 
+
+- "Attention schema" tracks attention to itself and predicts how it changes over time.
+
+### Chapter 4: 
+
+- Reptiles have a cerebral cortex which is a layer on top of your brain. Connections from brain to cortex go through the thalamus. Cortex is the attention machine and only filtered information gets there. Competition for attention continues there too.
+
+- Theories of consciousness:
+	- > threshold of process give raise to it: that's a slippery slope that leads us to pansychism.
+	- global workspace theory: whatever wins the competition in your cortex is reflected in your consciousness. This helps us answer questions like "what do you see?" "what's the color of the apple". This doesn't explain how we answer questions like "are you conscious?"
+	- attention schema theory solves the problem
+
+### Chapter 5
+
+- For a theory of mind to work, you should be able to estimate the other animals attention.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

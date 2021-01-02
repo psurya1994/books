@@ -1,5 +1,19 @@
 ## Man's search for meaning
 
+In this book, Viktor explains his experiences in the concentration camps and his theory of logotherapy that helps make sense of human behaviour in these extreme of situations. 
+
+Why is reading this book important? Because it gives us some insights into the human nature. And helps think more clealry about different aspects of my life. For example, we can see the psychological effects of optimism in the context of unavoidable suffering. I could apply this to my practice of meditation; if I have to meditate for a day, should I count my breaths during the practice to make it through? Maybe not counting will give me a better chance to survive. 
+
+The second half of the book focuses on the principles of logotherapy, which argues for the importance of meaning in people's lives which helps us get through unavoidable suffering unscathed. 
+
+This book changed my mind on the importance and consequences of having meaning in life. The meaning that comes from work or love. This resonates with my experience where I'm able to push myself harder on my workouts where I find meaning in performing well on game day.
+
+Sources that one can derive meaning from:
+- Work: deep work, winning a competition, interesting scientific work
+- Love: kids, partner, society
+
+### Part 1 - Experiences in the camp
+
 This is a book written by a Nazi camp survivor who is a psychologist. He talks about his experience in the camp and how people responded when put to this incredible torture.
 
 Only people who lost as scruples in the fight to survive returned. 
@@ -54,6 +68,35 @@ One who knows his "why" can bear almost any "how".
 
 What can you say to a group of people going through somethign like this? 
 
+### Part 2 - Logotherapy
+
+Logotherapy vs psychotherapy: considers that the man concern of a person is the fulfillment of meaning, rather than gratification of instincts and drives.
+
+Knowing that there's meaning in life, can help people survive the worst of circumstances. 
+
+People don't need a tensionless equilibrium state, what they need is striving and stuggling for a worthwhile goal. 
+
+Existential stress is commong. Schopenhauer - "we are doomed to vacillate between the extremes of boredom and distress." 
+
+Psychoanalysis much be complimented with logotherapy (giving the patient a sense of meaning) to be effective and avoid relapses.
+
+Finding a abstract meaning of life for all situations is hard. Meaning of life changes based on the moment. 
+
+Logotherapy "Live as if you're living for the second time, and that you acted as wrongly as you're about to act now."
+
+Places to find meaning: (i) work, (ii) relationships, (iii) attitude towards unavoidable suffering (example, if someone's dreading the loss of a loved one, reframe the situation-- if you would have died earlier, the person would have suffered. here, you're suffering to avoid them the pain).
+
+Imagine yourself to be a millionare when you're 80, but you don't have any deep relationships. How would you feel like? What would you say to yourself? -- helps people realize the improtance of living for a loved ones.
+
+> when I'm 90, and I've realized that I've lived by the Stoic values of achieving tranquility and virtue, by helping the social good, how would I feel like? Something greater than ourselves seems quite important to survive that moment, the meaning to life. Relationships seem a key to it, and if your wife dies before you, you would only have kids left.  
+
+Having pleasure as your goal is unrelaistic. You need to have goal, in pursuit of which pleasure becomes a side effect.
+
+Anxiety can be avoided by actively seeking it. (paradoxical intention) Works for stuttering, having bad thoughts, sleeplessness (try to stay awake as long as possibel can sovle this) too. Helps kill feedback loops.
+
+Individual humans are unpredictable. Everyone has the choice to turn into a different person at any moment, which (present) scientific tools cannot predict.
+
+Often, drug and alcoholic addicts suffer from meaninglessness. If we use logotherapy to solve the problem of meaning, maybe that can be the gateway to less addiction in society?
 
 
 
@@ -64,5 +107,8 @@ What can you say to a group of people going through somethign like this?
 
 
 
-Why is reading this book important? Because it gives us some insights into the human nature. And could maybe help me think more clealry about different aspects of my life. For example, we can see the effects of optimism. I could apply this to my practice of meditation; if I have to meditate for a day, should I could breath or not? Maybe not counting will give me a better chance to survive. 
+
+
+
+
 

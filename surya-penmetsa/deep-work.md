@@ -8,3 +8,5 @@ What do you do when you miss a work session during the day for some reason, is i
 Yes, it's okay to compensate for the work in the evening. DOn't wait another day.
 
 Use distractions on a standing desk.
+
+Phone not visible. Water filled. Block websites. 
