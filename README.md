@@ -7,7 +7,7 @@ Disclaimer: I summarize my understanding of these books, and add my flavor into 
 
 
 I need to reorganize notes in my own style and chunk them so that they're easier for me to grasp. 
-
+<!---
 ---
 Completed notes
 - [The Stoic Challenge by William B Irvine](william-irvine-stoic-challenges.md)
@@ -39,3 +39,4 @@ Maybe
 
 
 If you have other recommendations, write to me. 
+-->
