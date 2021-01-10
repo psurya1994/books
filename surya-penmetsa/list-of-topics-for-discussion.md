@@ -36,6 +36,9 @@ Interesting (self-help style) questions:
 - What's one thing, if you do well, makes all other goals easier to achieve? 
 - If you had a chance to switch you life with somebody else, how would you do it with? If not, why not?
 
+If you know them well:
+- Bring up memories together.
+
 
 General topics:
 - COVID. Elections. Black lives matter. Free will. Stoicism. Distractions. 
