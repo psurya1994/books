@@ -1,6 +1,6 @@
 Full draft here (private): [link](https://docs.google.com/document/d/1fFhjdqn6vuGjcxTXw0OSGEETEdKjcz1mUf3bXm0c2Eg/edit)
 
-Below, you'll find me saying random things, don't take me seroiously. 
+Below, you'll find me saying random things, don't take me seriously. 
 
 ---
 
