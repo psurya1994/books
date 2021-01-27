@@ -42,6 +42,7 @@
 - Thoughts:
   - What about people like Khabib? I love him because he train with his friends and helps them out. 
   - Amar: using them as business partners
+  - you give friends things easily, thye values less
 
 **Law 3: conceal your intentions**
 
@@ -57,9 +58,15 @@
   - Use patterns to your advantage. Seem like someone who acts in accordance to patterns / mental models of your enemy. Violate suddenly. 
   - Blend in with people. Don't be recognized. Violate suddenly. 
 - Thoughts:
+  - CAll with Amar
+    - "I like you" -- if you get something, things change. you've acheieved it, poeple stop working. do it back and forth
+    - "people pick new stuff to solve always"
+    - give poeple things slowly
 - Questions:
   - Where can I apply this law in my life?
     - Maybe I shouldn't care too strongly about "being understood" or giving others an accurate image of who I am. That is a advantage if you ever get in a competition with them.
+    - Negotiations. Sellings.
+    - Everyone wants to feel imporatnt. Don't 
 
 **Law 4: say less than necessary**
 
