@@ -7,7 +7,7 @@ Disclaimer: I summarize my understanding of these books, and add my flavor into 
 
 I need to reorganize notes in my own style and chunk them so that they're easier for me to grasp. 
 
-List of books I read this year is [here]().
+List of books I read this year is [here](https://docs.google.com/spreadsheets/d/1joJR0fseVr67TQQIIdl_-045xzun41yWDFN6Tc6T8vo/edit#gid=0).
 
 <!---
 ---
