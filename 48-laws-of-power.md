@@ -76,14 +76,40 @@
   - Reduces the risk of saying something bad and embarrassing yourself. 
   - Sarcasm rarely helps; the momentary satisfaction will be outweighed by the price you pay. 
 - Reversal: you can talk more to look like a fool, that you can use for deception.
+- Applying this to life:
+  - Never try too hard to convince anyone in conversations. Try to use as few words as possible. If it's not working, go back to the drawing board. Spend time thinking about it in private and be ready for next time. (remember your failed conversations, eg. Nishanth -- if others make good points, immediately acknowledge and tell them you need to spend more time thinking about it)
+  - In a group discussion, speak less. Be prepared for the opportunity you get to speak and be brief and say something very interesting. Just intrigue people, and let them give you the space to speak. Don't take over.
 
 **Law 5: guard your reputation**
 
 - how?
-  - when you don't have a reputation, attack the reputation of the compeititors by sowing doubts about them. 
-  - when you have reputation, don't outright straightly attack; do something humorous light-hearted mocking; ridicule with sataire, never go all out.
+  - when you don't have a reputation, attack the reputation of the competitors by sowing doubts about them. 
+  - when you have reputation, don't outright straightly attack; do something humorous light-hearted mocking; ridicule with satire, never go all out.
   - establish a strong reputation, predict attacks on it. never appear desperate in your self-defense. If you reputation is marred, collaborate with people will good reputation.
+- questions
+  - but this seems in direct conflict of stoicism. "why insults hurt": 
+    - we insult to win a game of social hierarchy / power. stop playing the game, if someone insults "no response, or self deprecating humor". 
+    - to have reputation is to impress people who have different values from yours, do you even want to impress them?
 
 **Law 6: Gain attention**
 
-- What's unseen counts for nothing. Stand out, don't get lost in the crowd.
+- What's unseen counts for nothing. Stand out, don't get lost in the crowd. Even if it's controversial -- better to be slandered and attacked than ignored. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

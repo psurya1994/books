@@ -117,6 +117,16 @@ Eps 138: Robert Nozick
 - argues against john rawls's liberal democracy. it's a version of slavery.
 - centralized monopoly creates more problems than it solves.
 
+Eps 028:
+- rationalism: you can arrive at truth using reason, empiricism: you can arrive at truth by analysing sensory observations
+
+
+Eps 108: The Farkfurt School
+- neitzsche: god is dead -- he's talking about the void that is left without god (now that no reasonable personal can believe in a personal deity and seek safe belief). this void wi
+
+
+Witgenstin
+neitzsche
 
 
 my ideas:

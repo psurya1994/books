@@ -85,3 +85,15 @@
 ===
 
 - It's important to structure things after you learn them, if you don't do that, you're not really doing anything. A good way to structure is by teaching it to someone. Connecting it to other thigns and thinking about it more broadly is critical.
+
+===
+
+
+Ways to improve Rob Wilson:
+- buy something
+- learn a specific skill
+- systemic work around
+- try to change your personality (conscientous, extrovertness, etc.,)
+
+- accountability partners really help. 
+
