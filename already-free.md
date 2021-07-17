@@ -68,12 +68,24 @@ Buddist view - be completely committed irrespective of externals.
 	- A standard dynamic that plays out between couples: person needing space "why can't think on their own, why's this person always dependant on me". person needing connection "you're so unavailable, why can't you be emotionally more engaged". 
 	- we unconscious blame our partner for our feelings. because attributing it to them means that we don't have to do anything. taking more responsibility for our feelings instead of blaming others is the way out.
 
-
-
-
-
-
-
-
-
-
+- More on relationships:
+	- 4 stage view of working on relationships. It's just a good framework of thinking, not reality. We move across these stages in life.
+	- Pre-personal stage (self absorbed)
+		- claim that we're unable to change, or that it's because of our partner.
+		- our partner can give us what we want if he choses to, but he doesn't.
+	- Personal stage:
+		- we can stand alone. we don't attribute our feelings to behaviors of others. take responsibility for how we feel.
+		- pretty much everything is workable. be less gaurded (less defensive).
+	- Interpersonal:
+		- we're interested more in others than our own selves. we don't need anything.
+		- be empathic even though you don't understand the other person. 
+	- Non personal:
+		- Fully open awareness without any identiites. See things at one moment at a time. Not worrying about the future or the past.
+	- Honeymoon period for couples generally ends around 6 months to 2 years. After this period, the couple become more connected in their lives, and unresolved emotional issues begin to get triggered. People feel disappointed and many end the relation. 
+	- A: "Nobody will be there for me, so I have to do the work. I have to keep trying to make our connection stronger." B: "Nobody will be there for me, so I better be self sufficient. It's stupid to depnd on others". These are conflicting styles. As long as people are arguing this way, it's people trying to blame each other and not change anything. 
+	- Emotional intensity doesn't mean intimacy. 
+	- We're unlikely to change our partner. So the better thing to do would be to take responsibility. And deal with things from there. And still negotiate behavior change.
+	- Taking good care of ourselves, irrespective of partners needs can be a good way to live a satisified life. 
+	- If we treat our partner kindly, it's more likely that they are going to be kind. 
+	- When you're in the non personal space, even though your partner triggers strong emotions in it, it's just interesting. You don't suffer because of it. You find satisfaction in exploring the sensations more closely. 
+	
