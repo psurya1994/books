@@ -1,5 +1,11 @@
 no-self-no-problem.md
 
+Summary:
+
+The book suggests that the left brain is responsible for creating stories out of our experiences, where as the right brain experiences things as they are. It further suggests that most suffering is due to this illusory sense of self created by the left brain, and we can avoid suffering by finding a middle way between the left and right brain. You can access the state (that buddha refered to as the end of suffering) by quiteing the clutter by your left brain through the use of meditation, yoga, mindful movements, etc. The book underdelivers on the science, and at points becomes pseudoscientific by giving credence to anecdotes with supernatural phenomena.  
+
+---
+
 Preface:
 - Effects of meditating regularly on the brain
 	- No reduction in cortex thickness with age
@@ -77,6 +83,6 @@ Chapter 7: Consciousness
 - The book mistakes the ideas of body schema as to the existence of consciousness. 
 
 Chapter 8: The Real You
-- 
+- Take life lightly. Laugh. Smile. Be curious. Be grateful. Don't cling. Don't push.
 
 
