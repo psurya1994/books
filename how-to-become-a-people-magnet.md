@@ -75,5 +75,5 @@ Part 6
 - #58: Don't make assumptions. Ask instead of making assumptions. 
 - #59: Don't take anything personally. You only take it if you're secure. Be secure about yourself.
 - #60: Don't spend time with wrong people.
-- #61: 
-- #62: 
+- #61: Don't expect other people to be perfect.
+- #62: Solve problems right away. 

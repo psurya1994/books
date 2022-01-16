@@ -1,6 +1,6 @@
 book-of-five-rings.md
 
-The book covers the way of training into a warrior, with a lot of philosophy around how you can become the best in the world at this. On how to train smart, and specific strategies that one can use. These ideas apply more broadly than just sword fighting. 
+The book covers the way of training into a warrior, with a lot of philosophy around how you can become the best in the world at this. On how to train smart, and specific strategies that one can use. These ideas apply more broadly than just sword fighting. It was interesting to see the clear thinking of the author, even though I don't have lots of takeaways. 
 
 The scroll of earth:
 - He won 60/60 battles during the age 13-29. He won this without reaching the ultimate level of strategy. So he continued working until 50 to find deeper principles. 
@@ -41,7 +41,12 @@ The scroll of fire:
 - We tend to overestimate the enemy. If you practiced strategy, there is nothing to fear.
 
 The scroll of wind:
-- Criticizes other schools. 
+- Criticizes other schools. Goes into quite some detail. 
+- Start simple, and let them get into the truw way slowly. 
+
+
+The scroll of heaven:
+
 
 
 
