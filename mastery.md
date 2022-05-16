@@ -261,9 +261,25 @@ Strategies for creative-active phase
 	- explore ideas that go against the main stream
 	- creativity comes from long periods of practice, not drugs.
 
+The third transformation -- Fuse the intuitive with the rational: mastery
+- Focus on the quantity of work, and replicating the experts during  your apprenticeship.
+- Keys to mastery:
+	- Masters have "heightends intellectual power" after years of practice to sense what's happening in new ways (eg. new visuals about the phenomena they explore, they feel as intuition).
+	- What masters do cannot be reduced to a rational formula. This high level intuition is a complimentary tool to rationality. 
+	- Once we're masters, we can accurately judge seemingly chaotic phenomena without giving a rational account of how we arrived at that judgement. 
+	- This happens at 20,000 hours of practice at high levels of focus. We don't coast through the knowledge, but internalize it into ourselves. We reflect on failures and setacks to internalize them. 
+	- Don't just read books, rigourously tear them apart and actively apply the lessons you learn to your own life. Attack it from all directions. You might not see immediate progress but you're making deep connections that will spring board you in future. 
+	- When we learn, we build memories of things. When masters think of ideas, their brain is subconsciously searching for millions of connections between these ideas.
+	- We want to build tolerence and taste of chaotic situations for dealing with complex problems. In such situations, don't look too far ahead, just maintain your cool and trust the process.
+	- Focus on making connections between everything you learn. Don't learn discrete chunks of knowledge. 
 
-
-
+Strategies for attaining mastery:
+- Masters have high self-awareness. They know that the conventional path to the top does not work for them. So they build their own career paths, that suits their internal inclinations. Below are examples of this phenomena. 
+- #1: connect to your environment
+	- Build new systems of understanding your environment, build internal models and create your own interpretations. 
+- #2: Play to your strengths
+	- Einestein gave up experimental physics and took theoritical because that was easier for him to do. 
+	- Autism scientist who worked hard to build her own viusal intuition about things.
 
 Ideas:
 - The first step towards making progress is to immitate your masters. Just immitate for now, you can get better slowly. 
