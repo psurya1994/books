@@ -30,7 +30,40 @@ Chapter 2: Managing
 - Increase productivity by changing what we work on. Work on things with higher leverage. Arrange the process flow in such a way that we have high output productivity.
 - Note all steps in the flow clearly, question each step and remove the unnecessary ones. 
 
-Chapter 3 
+Chapter 3: managerial leverage
+- A manager's output needs ot be measure by the output of his org and neighboring orgs under his influence
+- Written reports are the the author to think hard and get precise about what he wants to say. Not mainly for reading.
+- How can a manager maximize his output? By maximizing the sum (leverage of activity x work performed on activity). 
+- Train your subordinates to do the work, don't do it yourself. It helps keep the expectation where they need to be. Mangerial meddeling has negative leverage. 
+- Block time for similar events. Use calendar for productivity. Don't let tasks be fragemented. 
+- Continously keep thinking about the big picture and how we can make things more efficient. 
+
+
+Chapter 4: meetings
+- process-oriented meeting: knowledge / updates are shared, mission-oriented meeting: a decision needs to be taken 
+- process-oriented meetings: one-on-one meetings, staff meetings, operation reviews
+- mission-oriented meetings
+
+Chapter 5: decisions
+- each time you don't ask a question, the decision process is inferior. 
+
+Chapter 6: Planning
+- Plan in 3 steps: (i) project the need, (ii) understand you present capability and (iii) adjust to meet need.
+- what should I do today to solve tomorrow's problem?
+
+Chapter 11:
+- an employee won't perform well because (i) he can't do it (needs training), (ii) he won't do it (needs motivation)
+- how can you motivate someone? 
+	- keep some needs unsatisfied at all times: physiological needs, security, social needs, recognition needs, self-actualization needs
+- set goals, at the right difficulty level. 
+- once people are at a high enough level, money doesn't motivate them that much.
+- competition helps. having a scorecard of the progress.
+
+
+Chapter 12:
+- 
+
+
 
 
 
