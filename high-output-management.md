@@ -60,7 +60,14 @@ Chapter 11:
 - competition helps. having a scorecard of the progress.
 
 
-Chapter 12:
+Chapter 12-17:
+- There's no optimal management style. 
+- Task relevant maturity can tell what the best management style is. TRM: degree of achievement orientation, education, training and experience. 
+- Don't ask your subordinates to do a self-review. Tell them about things from your perspecitve first. You should give your subordinates what's in the review before you respond. 
+- Interviewing is always a risk, it's a partially observable problem and you're always at the risk of making a bad decision.
+- Questions I can use:
+	- Q: what can I do differently to have a higher impact on the team performance?
+	- Q: how can I improve my performance at my current job? [ask this to your manager to get specific feedback]
 - 
 
 
