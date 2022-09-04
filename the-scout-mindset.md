@@ -1,0 +1,2 @@
+the-scout-mindset.md
+
