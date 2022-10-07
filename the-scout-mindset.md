@@ -116,6 +116,85 @@ Chapter 8: motivation without self-deception
 - Be rationally optimistic, try to judge the odds accurately and then take the decision. Accurately seeing the odds gives us a better bigger picture, and possibly better paths to follow.
 - Accurate picture of the odds helps you judge how much to stake on success. 
 - Be motivated by "this is a bet worth taking" instead of "this will work"
+- Results have a lot of variance. When you make bets and they fail, understand that it might be just the variance. You don't know about it unless you have more samples. 
+- Just do the best based on your current reasoning, things might not work out due to chance (don't blame yourself for it). eg. bowling a slower ball last ball of the over; it's a good idea based on the information. Don't feel bad if it doesn't workout. If it doesn;t work out enough times, update your mental map.
+- Accepting the possibility of failure makes you bold, not timid. It gives you psychological freedom. 
+- “You want to get into a mental state where if the bad outcome comes to pass, you will only nod your head and say ‘I knew this card was in the deck, and I knew the odds, and I would make the same bets again, given the same opportunities.’"
+
+Chapter 9: Influence without overconfidence
+- People are more receptive to your opinion when you say it modestly / with caveats.
+- People judge you on social confidence (certainity that you know what you're saying), not epistemic confidence (cetrainity tht something with work)
+- Tone of voice, posture, calmness work far better than having epistemic confidence about the outcome. 
+- So you don't really need to be an expert of something, you just need to be comfortable in your own skin to convince people.
+- uncertainty "in you" caused by your lack of knowledge looks bad. uncertainty "in the world" caused because reality is messy doesn't improves confidence in you as long as you communicate using the three rules:
+	- uncertainty is justified
+	- give informed estimates
+	- have a plan
+- you don't need to promise success to be inspiring
+
+Chapter 10: how to be wrong
+- change your beliefs slowly over time. update them as you get more evidence, you don't have to change it 180 degrees overnight
+- superforesaters are the ones who learn from their mistakes and update their beliefs each time they are wrong.
+- each time we fix our beliefs in seemingly something trivial, we're building the habit to do this naturally and it affects all our judgements.
+- take domain general learning from the mistakes in judgments you make
+- when you're wrong, you need to feel bad only if that's because of sloppy thinking; you don't need to feel bad if the decision is wrong when you were thinking like a scout.
+- when people prediction are off, they just say "I'm almost right" and reason it out. superforecasters adjust their prediction confidence each time. 
+- think in terms of updating your belief %, instead of thinking that you're wrong. 
+- Personally, I can make prediciton about what the results of specific experiments can be (which I'm doing ML research), and update my beliefs each time I get new evidence. This will make me really good at building intuitions about how valuable the research papers from academia are. 
+
+Chapter 11: lean into confusion
+- Last chapter was about being good at being wrong, now we need to get good at being confused.
+- When you encounter evidence counter to your beliefs, see them as interesting puzzles to be solved. 
+- observations that cross our minds opposed to our beliefs, we're more likely to forget and not ponder upon them.
+- See all counter examples to your theories and refine your theory based on it. That's how you build a strong theory, it doesn't happen overnight.
+- common forcesator excuse: this stuff is generally unpredictable anyways.
+- Don't see other people as irrational, which something seems irrational, dig deeper to understand better about where they are coming from. 
+- Solving puzzling observations gives us valuable insights and guides us in unexpected directions. They might lay the ground work for a big change / ground breaking new theory.
+	- Eg. why was homeopathy working so well? it doesn't make scientific sense. if only doctors looked more closely at this evidence before, they would have come up with the ground breaking theory of the importance of sanitary hygiene much beofre. Don't be one of them, lean into puzzles further.
+- Confusion is good. Be willing to stay confused for extended periods of time. 
+- Instead of trying to fit confusing observations into your preexisting theories, treat them as clues to a new theory. View anamolies as puzzle pieces you collect as you go through the world. note them in a book so that you don't forget.
+
+Chapter 12: escape your echo chamber
+- just getting outside our bubble is not good enough to change our mind. it does not work. 
+	- watching fox news only futhers your views about conservatives.
+- enagage with people frmo the other side being reasonable, not "anyone". that's how you can your mind. 
+- listen to people you share intellectual common ground with; who think diffrently on specific topics.
+- dissent frmo people who you don't respect is not useful.
+- why do smart people disagree when they're all being reasonable?
+	- #1: we misunderstand each others views
+	- #2: bad arguments inoculate us against good arguments -- we chunk the other persons argument as a variant of something we've already heard, and don't consider it with a fresh mind
+	- #3: our beliefs are interdependent, chaning one requires changing others
+
+Chapter 13: how beliefs become identities
+- when you feel oppresed and you're proud of something, they tend to become identities
+- signs that a belief is an identity
+	- #1: using "I believe" -- you're defining yourself as you explain about how the world works. 
+	- #2: getting annoyed when an ideaology is critized
+	- #3: defiant language about your beliefs
+	- #4: a righteous tone
+	- schadenfreunde (if you're happy at news that discredits their world views)
+	- epithets
+	- having to defend your view
+- identity makes you less flexible and reduces your judgement
+
+Chapter 14: hold your identity lightly
+- you can't give it up completely, because it makes communicating succinctly harder. so hold rthem lightly.
+- use it as a description, not a flag to wave proudly.
+- say interanlly "I agree with most views that atheists hold, but they're not fully representative of me"
+- the moment you think you're superior to others, in terms of your judgement, makes it hard to understand the other side, and hence you can't change their mind.
+- acknowledge the problems with you identities clearly, that gives you credence to change other people's mind.
+
+Chapter 15: A Scout Identity
+- having the scount mindset (the goal to see how world is as accurately as posible) as your top identity, is what helps you override other identities you might have. 
+- think of yourself of a student solving puzzles to understand the world. 
+- take pride being a scout, don't feel good about taking cheap shots at others
+- as a scout, you enjoy each time you're chaning you mind
+- as you strive to be a scout, you will attract other scouts into your life more. it's okay to alienate people who are not scouts, as they cloud your judgement. 
+
+
+
+
+
 
 
 
