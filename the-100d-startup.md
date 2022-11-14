@@ -46,11 +46,49 @@ Chapter 4:
 
 Chapter 5: 
 - this chapter is about thinking clearly about customers
-- 
+- group customers based on new demographics: interests, passions, skills, beliefs, values. 
+- make sure your product delivers exactly what the client wants. 
+- sell to full franchises, instead of one owner at a time. 
+- so how do you build a good business?
+	- 1: latch on to a popular hobby / passion or craze. For example, marriages in india, diet, exercise, accountability partners, etc. 
+	- 2: sell what people buy
 
-Ideas for Ramya:
-- deisgn custom wedding dresses and sell them to women all over the world.
+Chapter 6: The one-page business plan 
+- build things that you want, and it might just end up being helpful for others too
+- build something, put it out there, wait for customer response and fine tune accordingly.
+- invest sweat and equity instead of money
+- have an action bias, here's how you do it
+	- #1: pick a markatable idea
+		- focus on usefulness, not novelty
+		- do market testing: see number of keyword searches for the product, focus on solving a pain, focus on different + better (don't rebuild something that's already there), talk to potential customers (who fits the persona) in your circle, give the build product to some people for testing
+	- #2: get the first sale as soon as possible
+		- focus on following these principles and building something (if it fails, it's great marketing content too)
+	- #3: market before manufacturing
+		- advertise something, see if people want it, then build it
+- mission statement: we help (customers) do (primary benefit)
+
+Chapter 7: An offer you can't refuse
+- you need to present your product at the right time, with a pitch they cannot refuse
+- offer you can't refuse = right time, right audience, right promise
+
+Chapter 8: launch
+- if you make people anticipate for your product, their interest goes up.
+
+
+Chapter 9: hustling
+- hustler: someone who does both talking and putting in the work
+
+Chapter 10: the 100$ startup
+- spend only on things that have a direct relationship to sales
+- complete on the value, not the money
+
+Remaining chapters:
+- not taking notes
+
+Ideas:
+- deisgn custom wedding dresses and sell them to women all over the world. -- idea
 - "A Gentle Introduction to AI-based Art" book
+- get a freelancer to animate the story of guy and girl. 
 
 
 
