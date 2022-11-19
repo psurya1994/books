@@ -138,23 +138,120 @@ Chapter 4:
 - #8: negativity about other's ideas
 	- 
 - #9: not sharing information, to keep advantage over others
+	- Problem: it rarely achieves the desired effect, you're losing trust. 
+	- to have power, you need loyalty rather than fear or suspision
+	- sometimes you do this because you're unaware. make sure you're doing it more than necessary.
+	- the coworkers need to  feel like you care about what they have to say
 - #10: not giving proper recognition
+	- recognition is very important for other people. give it to them whenever necessary.
+	- this takes so little time, and can be massively impactful to add to your power
 - #11: claiming credit we don't deserve
+	- be careful to not claim credit for things that you've not done. 
+	- you do this because of the need to win
+	- compensate for your self centered bias.
 - #12: making excuses
+	- Just say you're sorry. DOn't make excuses, either "it's my assistants mistake" or "I keep forgetting things" -- they don't work
 - #13: clinging to the past
-- #14: failing to see when we treat others unfairly
+	- people cling to the past (I've grown up this way) to justify their behaviors. 
+- #14: failing to see when we treat others unfairly / playing favorites
+	- don't pay extra attention to people who try to flatter you. don't give them extra credit.
 - #15: refusing to express regret
+	- refusing to apologize increases the bitterness. say you're sorry, so that you turn other people into allies. 
+	- to gain a friend, let him do you a favor. 
+	- ask someone for help, to build a relationship.
 - #16: not listening
+	- when someone presenting, try to understand it; instead of asking thme to skip over
+	- it turns away top talent from workign for you
 - #17: failing to express gratitude
+	- Always say thanks when someone tries to help.
+	- This is what makes people continue to want to talk to you
+	- you don't need to wait to say thank you, just leave a message to them
+	- you can't over do it. keep thanking people everytime.
 - #18: punishing the messenger
-- #19: blaming everyone but ourselves
+	- if someone wants to give a helpful warning, say thanks for the info and that you'll consider it carefully. 
+	- don't shoot them down
+- #19: blaming everyone but ourselves / passing the buck
+	- it's ok not to be perfect. accepting it make other people respect you.
 - #20: exalting our flaws because htat's who we are.
+	- 
 - to change to behavior, pay 10$ each time you violate.
 
+Chapter 5: goal obsession (the 21st habit)
+- being full goal obsessed comes at a huge cost:
+	- you compromise you health and relationships to get to the goal
+	- we might use questionable measure ot get to the goal
+	- makes us miss the bigger picture, makes us violate our values
+	- makes our life more stressful: because it causes unnecessary conflicts in life
 
+---
+How can we get better?
 
+Chapter 6: feedback
+- confidential feedback from everyone is the best way to identify how to improve relationships at work.
+- never argue someone who is giving feedback. 
+- simply say thank you when you hear feedback; if you think it's flawed, you don't need to act on it.
+- three types of feedback: solicited, unsolicited, observation
 
+Chapter 7: apologizing
+- apologize heartfully. 
 
+Chapter 8: telling the world
+- tell the people you want to change, only then will they notice is.
+- tell multiples times
+
+Chapter 9: listening
+- listening is an active process, listen intensely. think before you speak. 
+- everything you say will have so much more value when you do that.
+- listen with respect. act as if the other people is the only thing is the universe and listen intensely. 
+- make the other person like they're the most important person in the world. this is what seperates the great from the elite. 
+- brag about the other person to them
+- meditation helps you become an incredible listener, the ability to focus on soemthing wihtout judgement.
+- the more you let the other people speak, and help them feel good, the more they respect you.
+
+Chapter 10: thanking
+- feel grateful for all the help other people do to you, and say thanks.
+- be extreme in gratitude.
+
+Chapter 11: following up
+- for people who gave you specific suggestions on improving, reach out to them as ask if you've been putting them to practice. 
+- this is how you measure progres, this is how you make other people realize that you're changing, shows that you value the other person, shows that you care about improving
+
+Chapter 12: practicing feedforward
+- Feedforward:
+	- #1: Pick one behavior that you would like to change. 
+	- #2: Find someone.
+	- #3: Ask for two suggestions to improve.
+	- #4: say thank you.
+	- do this for multiple people.
+- What you need to improve on, needs to be informed by feedback from others.
+- It's easier to take, than feedback.
+
+---
+
+How to apply these changes to your life, and what to stop doing now
+
+Chapter 13: Changing 
+- Obey the following rules to be better at behavior change:
+	- #1: see clearly if it's a skill problem or a behavioral problem
+	- #2: pick the right things to change, don't overcommit
+	- #3: don't delude yourself about what really needs to change
+	- #4: don't hide from the truth you need to hear (ask for feedback)
+	- #5: there is no ideal behavior (don't aim for perfect)
+		- you don't need to be perfect at every aspect. only fix the ones that are hindering your growth.
+	- #6: measure it, if you want to improve it
+	- #7: pay someone when you violate things
+	- #8: the best time to change is now
+
+Chapter 14: Special challenges for people in charge
+- tell people what your weak points ahead of time, so that they are aware. tell them you don't mean any of that actually. 
+- if your staff needs too much of your time, tell them to figure out where you can cut down. 
+- if someone doesn't follow your commands, follow up. Following up shows that what you're asking is actually high priority.
+- employees mindset: 20s they want to learn, 30s they want to grow, 40s they want to rule
+- managers should stop thinking they know more than their employees. it's a blindspot that dmiminishes their stature. 
+- company needs a specific knowledge worker, more than he needs the company.
+- stop trying to change employees who don't want to change. 
+- why star employees stay? work is exciting and meaningful, have friends here, opportunity to follow dreams 
+---
 
 Personal notes:
 - what is a behavior that I do, that's annoying to people around me?
@@ -169,10 +266,6 @@ Personal notes:
 - what motivates me?
 	- money > status > popularity >> power
 - exercise: take a notebook and write your to stop list
-
-
-To Ali: I need to get better at sharing credit. 
-
 
 
 
