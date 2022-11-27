@@ -266,8 +266,9 @@ Habit 7: sharpen the saw
 	- H4: "I can see that we're approaching this siutation differently. Why don't we agree to communicate until we find a solution that works for the both of us? Would you be willing to do that." H5: "Let me listen to you first. here's how I feel." H6: "let's brainstorm solutions that work for the both of us"
 	- script others: tell them about their strengths and what you think they'll succeed at. 
 	- if you treat someone as if they have all the potential in the world, they actually become such people. treat everyone with utmost respect. 
-
-
+- need balance in all these aspects above to be optimal.
+- each habit feeds into each other. always think about the natural principles that will help you grow. refine them as you know more about the world.
+- don't ever feel guilty about taking time for yourself. you won't be helpful to other if you're not internally stable yourself. 
 
 
 
